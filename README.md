@@ -1,2 +1,4 @@
 # dailytasks
-first-project
+
+first-projec
+this is my first-git-project
